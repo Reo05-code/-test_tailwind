@@ -60,3 +60,4 @@ end
 
 gem "tailwindcss-rails"
 gem "tailwindcss-ruby"
+gem 'devise'
