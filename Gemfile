@@ -61,3 +61,6 @@ end
 gem "tailwindcss-rails"
 gem "tailwindcss-ruby"
 gem 'devise'
+group :development, :test do
+  gem 'rspec-rails'
+end
